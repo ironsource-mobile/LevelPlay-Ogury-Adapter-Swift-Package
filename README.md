@@ -30,7 +30,7 @@ dependencies: [
 
 This package includes:
 - LevelPlay iOS SDK (Unity Mediation SDK)
-- Ogury SDK v5.2.0
+- Ogury SDK
 
 ## Documentation
 
