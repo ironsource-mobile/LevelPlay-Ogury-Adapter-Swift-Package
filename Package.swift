@@ -8,7 +8,7 @@ let package = Package(
     .library(name: "OguryAdapter", targets: ["OguryAdapter"]),
   ],
   dependencies: [
-    .package(url: "https://github.com/Ogury/ogury-sdk-spm", exact: "5.2.3"),
+    .package(url: "https://github.com/Ogury/ogury-sdk-spm", exact: "5.3.0"),
     .package(url: "https://github.com/ironsource-mobile/LevelPlay-Swift-Package", "9.0.0"..<"10.0.0"),
   ],
   targets: [
@@ -22,8 +22,8 @@ let package = Package(
     ),
     .binaryTarget(
       name: "OguryAdapterSDK",
-      url: "https://raw.githubusercontent.com/ironsource-mobile/iOS-adapters/master/ogury-adapter/5.6.0/ISOguryAdapter5.6.0.zip",
-      checksum: "541b247018c9721da2de6e364014ed8f14c2667984ea9c201d036a78e3b73416"
+      url: "https://raw.githubusercontent.com/ironsource-mobile/iOS-adapters/master/ogury-adapter/5.7.0/ISOguryAdapter5.7.0.zip",
+      checksum: "57eb93fd490c1508f988a4dffae5315bf62b22f6189cab47a4bb30d00cc0e582"
     )
   ]
 )
