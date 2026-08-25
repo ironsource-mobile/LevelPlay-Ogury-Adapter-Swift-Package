@@ -22,8 +22,8 @@ let package = Package(
     ),
     .binaryTarget(
       name: "OguryAdapterSDK",
-      url: "https://raw.githubusercontent.com/ironsource-mobile/iOS-adapters/master/ogury-adapter/5.7.0/ISOguryAdapter5.7.0.zip",
-      checksum: "57eb93fd490c1508f988a4dffae5315bf62b22f6189cab47a4bb30d00cc0e582"
+      url: "https://raw.githubusercontent.com/ironsource-mobile/iOS-adapters/master/ogury-adapter/5.8.0/ISOguryAdapter5.8.0.zip",
+      checksum: "dbf010e66c67df647a22d6c57567e02cdd2e199d0b73555c927f046cb6175578"
     )
   ]
 )
